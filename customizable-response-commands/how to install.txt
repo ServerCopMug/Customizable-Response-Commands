@@ -4,7 +4,7 @@
 ----------------Customizable-Response-Commands-------------------
 -----------------------------------------------------------------
 
-1. Download the script here: https://github.com/ServerCopMug/FiveM-Scripts.git
+1. Download the script 
 2. Extract the file
-3. Drag the file called "servercopmughelp" into your servers resource folder
-4. Add "start servercopmughelp" into your server.cfg  
+3. Drag the file called "Customizable-Response-Commands" into your servers resource folder
+4. Add "start Customizable-Response-Commands" into your server.cfg
