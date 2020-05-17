@@ -6,5 +6,5 @@
 
 1. Download the script 
 2. Extract the file
-3. Drag the file called "Customizable-Response-Commands" into your servers resource folder
-4. Add "start Customizable-Response-Commands" into your server.cfg
+3. Drag the file called "customizable-response-commands" into your servers resource folder
+4. Add "start customizable-response-commands" into your server.cfg
