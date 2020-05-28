@@ -7,4 +7,4 @@ While I was building a FiveM server to play around with I found that there are n
 2. Always give credit.
 3. Only message me on discord for legit reasons.
 
-For any help message me on discord: ServerCopMug#0392
+For any help message me on discord: ServerCop#0392
